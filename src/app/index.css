@@ -1,5 +1,5 @@
 @import 'tailwindcss';
-@import url('https://fonts.googleapis.com/css2?family=Chiron+GoRound+TC:wght@200..900&display=swap');
+
 
 @theme {
     --color-text: #2b282a;
@@ -20,21 +20,21 @@
     --color-secondary-600: #3c3609;
     --color-secondary-700: #1b1802;
 
-    --color-accent-100: #a4f9c0;
-    --color-accent-200: #67d390;
-    --color-accent-300: #51a972;
-    --color-accent-400: #3c8156;
-    --color-accent-500: #285a3b;
-    --color-accent-600: #163722;
-    --color-accent-700: #05160b;
+    --color-succes-100: #a4f9c0;
+    --color-succes-200: #67d390;
+    --color-succes-300: #51a972;
+    --color-succes-400: #3c8156;
+    --color-succes-500: #285a3b;
+    --color-succes-600: #163722;
+    --color-succes-700: #05160b;
 
-    --color-succes-100: #e9d8e2;
-    --color-succes-200: #d1aac2;
-    --color-succes-300: #bb7ba4;
-    --color-succes-400: #8f5a7c;
-    --color-succes-500: #633c55;
-    --color-succes-600: #392131;
-    --color-succes-700: #1a0d15;
+    --color-accent-100: #e9d8e2;
+    --color-accent-200: #d1aac2;
+    --color-accent-300: #bb7ba4;
+    --color-accent-400: #8f5a7c;
+    --color-accent-500: #633c55;
+    --color-accent-600: #392131;
+    --color-accent-700: #1a0d15;
 
     --color-error-100: #fde5e5;
     --color-error-200: #f9afaf;
@@ -45,6 +45,7 @@
     --color-error-700: #330303;
 
     --font-chiron: 'Chiron GoRound TC', sans-serif;
+    --font-tasa: 'TASA Orbiter', sans-serif;
 }
 
 body {
